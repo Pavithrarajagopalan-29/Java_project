@@ -1,1 +1,2 @@
 This is my mock text file which i uploaded in a new repository in github!!!
+my final changes in github using the command git pull to extract the changes to my local!!
