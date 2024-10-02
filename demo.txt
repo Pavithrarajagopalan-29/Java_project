@@ -1,3 +1,1 @@
-This is my mock text file which i uploaded in a new repository in github!!!
-my final changes in github using the command git pull to extract the changes to my local!!
-this is my finale command to update in github from my local .. using the command git pushhhhhh!!
+oct 2nd is the day celebration for the father of the nation!!!
